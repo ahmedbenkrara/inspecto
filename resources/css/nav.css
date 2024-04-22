@@ -1,0 +1,85 @@
+.x{
+    transform: rotate(0deg) translate(0px, 0px);
+    animation: closex 1s ease-in forwards;
+}
+
+.y{
+    transform: rotate(0deg) translate(0px, 0px);
+    animation: closey 1s ease-in forwards;
+}
+
+@keyframes closex{
+    from{
+        transform: rotate(0deg) translate(0px, 0px);
+    }
+
+    to{
+        transform: rotate(-45deg) translate(-2px, 2px);
+    }
+}
+
+@keyframes closey{
+    from{
+        transform: rotate(0deg) translate(0px, 0px);
+    }
+
+    to{
+        transform: rotate(45deg) translate(-2px, -2px);
+    }
+}
+
+.a{
+    transform: rotate(-45deg) translate(-2px, 2px);
+    animation: openx 1s ease-in forwards;
+}
+
+.b{
+    transform: rotate(45deg) translate(-2px, -2px);
+    animation: openy 1s ease-in forwards;
+}
+
+@keyframes openx{
+    from{
+        transform: rotate(-45deg) translate(-2px, 2px);
+    }
+    
+    to{
+        transform: rotate(0deg) translate(0px, 0px);
+    }
+}
+
+@keyframes openy{
+    from{
+        transform: rotate(45deg) translate(-2px, -2px);
+    }
+    
+    to{
+        transform: rotate(0deg) translate(0px, 0px);
+    }
+}
+
+.listhover{
+    position: relative;
+}
+
+.listhover:hover::before {
+    height: 10px;
+    transition: height 0.3s ease-in-out;
+}
+
+.listhover::before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 0px;
+    background: #97c680a2;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.btnhover:hover{
+    background: #97c680;
+    color: black;
+    transition: all 0.4s ease-in-out;
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "Brand": "ALFA ROMEO",
+        "Models": [
+            {
+                "Model Name": "145",
+                "Phase": null,
+                "Date Range": "Du 01/08/1994 au 31/10/2001"
+            },
+            {
+                "Model Name": "146",
+                "Phase": null,
+                "Date Range": "Du 01/04/1995 au 31/10/2001"
+            },
+            {
+                "Model Name": "147",
+                "Phase": "PHASE I",
+                "Date Range": "Du 01/10/2000 au 23/09/2004"
+            },
+            {
+                "Model Name": "147",
+                "Phase": "PHASE II",
+                "Date Range": "Du 23/09/2004 au 31/01/2010"
+            },
+            {
+                "Model Name": "155",
+                "Phase": null,
+                "Date Range": "Du 01/04/1992 au 30/04/1998 OUI"
+            },
+            {
+                "Model Name": "156",
+                "Phase": "PHASE I",
+                "Date Range": "Du 01/10/1997 au 31/12/2002"
+            },
+            {
+                "Model Name": "156",
+                "Phase": "PHASE I EVO",
+                "Date Range": "Du 15/02/2002 au 31/07/2003"
+            },
+            {
+                "Model Name": "156",
+                "Phase": "PHASE I EVO SPORTWAGON",
+                "Date Range": "Du 15/02/2002 au 31/07/2003"
+            },
+            {
+                "Model Name": "156",
+                "Phase": "PHASE I SPORTWAGON",
+                "Date Range": "Du 01/06/2000 au 31/12/2002"
+            },
+            {
+                "Model Name": "156",
+                "Phase": "PHASE II",
+                "Date Range": "Du 17/03/2003 au 31/01/2006"
+            },
+            {
+                "Model Name": "156",
+                "Phase": "PHASE II CROSSWAGON",
+                "Date Range": "Du 01/09/2004 au 31/01/2007"
+            }
+        ]
+    },
+    {
+        "Brand": "ALFA ROMEO",
+        "Models": [
+            {
+                "Model Name": "156",
+                "Phase": "PHASE II SPORTWAGON",
+                "Date Range": "Du 17/03/2003 au 31/01/2007"
+            },
+            {
+                "Model Name": "159",
+                "Phase": null,
+                "Date Range": "Du 23/09/2005 au 01/05/2013"
+            },
+            {
+                "Model Name": "159",
+                "Phase": "SPORTWAGON",
+                "Date Range": "Du 14/02/2006 au 01/05/2013"
+            },
+            {
+                "Model Name": "164",
+                "Phase": null,
+                "Date Range": "Du 01/07/1990 au 01/04/1998 OUI"
+            },
+            {
+                "Model Name": "166",
+                "Phase": "PHASE I",
+                "Date Range": "Du 23/10/1998 au 15/10/2003"
+            },
+            {
+                "Model Name": "166",
+                "Phase": "PHASE II",
+                "Date Range": "Du 15/10/2003 au 31/12/2007"
+            },
+            {
+                "Model Name": "33",
+                "Phase": null,
+                "Date Range": "Du 01/04/1992 au 01/07/1995 OUI"
+            },
+            {
+                "Model Name": "33",
+                "Phase": "BREAK",
+                "Date Range": "Du 01/12/1990 au 01/07/1995 OUI"
+            },
+            {
+                "Model Name": "4C",
+                "Phase": "COUPE",
+                "Date Range": "Du 05/03/2013 au 02/01/2020"
+            },
+            {
+                "Model Name": "4C",
+                "Phase": "SPIDER",
+                "Date Range": "Du 05/05/2015 au 02/01/2020"
+            },
+            {
+                "Model Name": "75",
+                "Phase": null,
+                "Date Range": "Du 01/02/1986 au 01/02/1993 OUI"
+            }
+        ]
+    }
+]

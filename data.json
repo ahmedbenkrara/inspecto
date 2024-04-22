@@ -1,0 +1,810 @@
+{
+    "data":[
+       {
+          "name":"ALFA ROMEO",
+          "value":[
+             {
+                "Gamme":"145/146",
+                "Modèle":"145",
+                "Phase":"",
+                "From":"01/08/1994",
+                "To":"31/10/2001"
+             },
+             {
+                "Gamme":"145/146",
+                "Modèle":"146",
+                "Phase":"",
+                "From":"01/04/1995",
+                "To":"31/10/2001"
+             },
+             {
+                "Gamme":"147",
+                "Modèle":"147",
+                "Phase":"I",
+                "From":"01/10/2000",
+                "To":"23/09/2004"
+             },
+             {
+                "Gamme":"147",
+                "Modèle":"147",
+                "Phase":"II",
+                "From":"23/09/2004",
+                "To":"31/01/2010"
+             },
+             {
+                "Gamme":"155",
+                "Modèle":"155",
+                "Phase":"",
+                "From":"01/04/1992",
+                "To":"30/04/1998"
+             },
+             {
+                "Gamme":"156",
+                "Modèle":"156",
+                "Phase":"I",
+                "From":"01/10/1997",
+                "To":"31/12/2002"
+             },
+             {
+                "Gamme":"156",
+                "Modèle":"156",
+                "Phase":"I EVO",
+                "From":"15/02/2002",
+                "To":"31/07/2003"
+             },
+             {
+                "Gamme":"156",
+                "Modèle":"156",
+                "Phase":"I EVO SPORTWAGON",
+                "From":"15/02/2002",
+                "To":"31/07/2003"
+             },
+             {
+                "Gamme":"156",
+                "Modèle":"156",
+                "Phase":"I SPORTWAGON",
+                "From":"01/06/2000",
+                "To":"31/12/2002"
+             },
+             {
+                "Gamme":"156",
+                "Modèle":"156",
+                "Phase":"II",
+                "From":"17/03/2003",
+                "To":"31/01/2006"
+             },
+             {
+                "Gamme":"156",
+                "Modèle":"156",
+                "Phase":"II CROSSWAGON",
+                "From":"01/09/2004",
+                "To":"31/01/2007"
+             },
+             {
+                "Gamme":"156",
+                "Modèle":"156",
+                "Phase":"II SPORTWAGON",
+                "From":"17/03/2003",
+                "To":"31/01/2007"
+             },
+             {
+                "Gamme":"159",
+                "Modèle":"159",
+                "Phase":"",
+                "From":"23/09/2005",
+                "To":"01/05/2013"
+             },
+             {
+                "Gamme":"159",
+                "Modèle":"159",
+                "Phase":"SPORTWAGON",
+                "From":"14/02/2006",
+                "To":"01/05/2013"
+             },
+             {
+                "Gamme":"164",
+                "Modèle":"164",
+                "Phase":"",
+                "From":"01/07/1990",
+                "To":"01/04/1998"
+             },
+             {
+                "Gamme":"166",
+                "Modèle":"166",
+                "Phase":"I",
+                "From":"23/10/1998",
+                "To":"15/10/2003"
+             },
+             {
+                "Gamme":"166",
+                "Modèle":"166",
+                "Phase":"II",
+                "From":"15/10/2003",
+                "To":"31/12/2007"
+             },
+             {
+                "Gamme":"33",
+                "Modèle":"33",
+                "Phase":"",
+                "From":"01/04/1992",
+                "To":"01/07/1995"
+             },
+             {
+                "Gamme":"33",
+                "Modèle":"33",
+                "Phase":"BREAK",
+                "From":"01/12/1990",
+                "To":"01/07/1995"
+             },
+             {
+                "Gamme":"4C",
+                "Modèle":"4C",
+                "Phase":"COUPE",
+                "From":"05/03/2013",
+                "To":"02/01/2020"
+             },
+             {
+                "Gamme":"4C",
+                "Modèle":"4C",
+                "Phase":"SPIDER",
+                "From":"05/05/2015",
+                "To":"02/01/2020"
+             },
+             {
+                "Gamme":"75",
+                "Modèle":"75",
+                "Phase":"",
+                "From":"01/02/1986",
+                "To":"01/02/1993"
+             },
+             {
+                "Gamme":"BRERA COUPE/SPIDER II",
+                "Modèle":"BRERA COUPE",
+                "Phase":"",
+                "From":"20/01/2006",
+                "To":"31/12/2010"
+             },
+             {
+                "Gamme":"BRERA COUPE/SPIDER II",
+                "Modèle":"SPIDER II",
+                "Phase":"",
+                "From":"14/02/2006",
+                "To":"31/12/2010"
+             },
+             {
+                "Gamme":"GIULIA",
+                "Modèle":"GIULIA",
+                "Phase":"I",
+                "From":"03/05/2016",
+                "To":"20/01/2023"
+             },
+             {
+                "Gamme":"GIULIA",
+                "Modèle":"GIULIA",
+                "Phase":"II",
+                "From":"20/01/2023",
+                "To":""
+             },
+             {
+                "Gamme":"GIULIETTA",
+                "Modèle":"GIULIETTA",
+                "Phase":"I",
+                "From":"01/06/2010",
+                "To":"04/10/2013"
+             },
+             {
+                "Gamme":"GIULIETTA",
+                "Modèle":"GIULIETTA",
+                "Phase":"II",
+                "From":"04/10/2013",
+                "To":"01/03/2016"
+             },
+             {
+                "Gamme":"GIULIETTA",
+                "Modèle":"GIULIETTA",
+                "Phase":"III",
+                "From":"01/03/2016",
+                "To":"30/11/2021"
+             },
+             {
+                "Gamme":"GT",
+                "Modèle":"GT",
+                "Phase":"",
+                "From":"01/02/2004",
+                "To":"01/07/2010"
+             },
+             {
+                "Gamme":"GTV/SPIDER 1995",
+                "Modèle":"GTV 1995",
+                "Phase":"I",
+                "From":"01/06/1995",
+                "To":"17/05/2003"
+             },
+             {
+                "Gamme":"GTV/SPIDER 1995",
+                "Modèle":"GTV 1995",
+                "Phase":"II",
+                "From":"17/05/2003",
+                "To":"31/12/2005"
+             },
+             {
+                "Gamme":"GTV/SPIDER 1995",
+                "Modèle":"SPIDER 1995",
+                "Phase":"I",
+                "From":"01/06/1995",
+                "To":"17/05/2003"
+             },
+             {
+                "Gamme":"GTV/SPIDER 1995",
+                "Modèle":"SPIDER 1995",
+                "Phase":"II",
+                "From":"17/05/2003",
+                "To":"31/12/2005"
+             },
+             {
+                "Gamme":"MITO",
+                "Modèle":"MITO",
+                "Phase":"I",
+                "From":"01/07/2008",
+                "To":"20/05/2016"
+             },
+             {
+                "Gamme":"MITO",
+                "Modèle":"MITO",
+                "Phase":"II",
+                "From":"20/05/2016",
+                "To":"09/05/2019"
+             },
+             {
+                "Gamme":"RZ",
+                "Modèle":"RZ",
+                "Phase":"",
+                "From":"01/07/1993",
+                "To":"01/07/1994"
+             },
+             {
+                "Gamme":"SPIDER",
+                "Modèle":"SPIDER",
+                "Phase":"II",
+                "From":"01/05/1990",
+                "To":"31/07/1994"
+             },
+             {
+                "Gamme":"STELVIO",
+                "Modèle":"STELVIO",
+                "Phase":"I",
+                "From":"01/03/2017",
+                "To":"20/01/2023"
+             },
+             {
+                "Gamme":"STELVIO",
+                "Modèle":"STELVIO",
+                "Phase":"II",
+                "From":"20/01/2023",
+                "To":""
+             },
+             {
+                "Gamme":"SZ",
+                "Modèle":"SZ",
+                "Phase":"",
+                "From":"01/09/1990",
+                "To":"01/08/1993"
+             },
+             {
+                "Gamme":"TONALE",
+                "Modèle":"TONALE",
+                "Phase":"",
+                "From":"28/03/2022",
+                "To":""
+             }
+          ]
+       },
+       {
+          "name":"ALPINE CARS",
+          "value":[
+             {
+                "Gamme":"ALPINE A110",
+                "Modèle":"ALPINE A110",
+                "Phase":"",
+                "From":"05/09/2017",
+                "To":""
+             }
+          ]
+       },
+       {
+          "name":"AUDI",
+          "value":[
+             {
+                "Gamme":"100/4 (4A)",
+                "Modèle":"100/4",
+                "Phase":"",
+                "From":"01/07/1990",
+                "To":"01/06/1994"
+             },
+             {
+                "Gamme":"100/4 (4A)",
+                "Modèle":"100/4 AVANT",
+                "Phase":"",
+                "From":"01/04/1992",
+                "To":"01/06/1994"
+             },
+             {
+                "Gamme":"80/4 (8C)",
+                "Modèle":"80/4",
+                "Phase":"",
+                "From":"01/11/1991",
+                "To":"01/06/1995"
+             },
+             {
+                "Gamme":"80/4 (8C)",
+                "Modèle":"80/4 AVANT",
+                "Phase":"",
+                "From":"01/11/1992",
+                "To":"01/12/1995"
+             },
+             {
+                "Gamme":"A1 (8X)",
+                "Modèle":"A1",
+                "Phase":"I",
+                "From":"03/05/2010",
+                "To":"24/11/2014"
+             },
+             {
+                "Gamme":"A1 (8X)",
+                "Modèle":"A1",
+                "Phase":"II",
+                "From":"24/11/2014",
+                "To":"23/01/2019"
+             },
+             {
+                "Gamme":"A1 (8X)",
+                "Modèle":"A1 SPORTBACK",
+                "Phase":"I",
+                "From":"08/12/2011",
+                "To":"24/11/2014"
+             },
+             {
+                "Gamme":"A1 (8X)",
+                "Modèle":"A1 SPORTBACK",
+                "Phase":"II",
+                "From":"24/11/2014",
+                "To":"23/01/2019"
+             },
+             {
+                "Gamme":"A1 (8X)",
+                "Modèle":"S1",
+                "Phase":"",
+                "From":"01/03/2014",
+                "To":"31/12/2018"
+             },
+             {
+                "Gamme":"A1 (8X)",
+                "Modèle":"S1 SPORTBACK",
+                "Phase":"",
+                "From":"01/03/2014",
+                "To":"31/12/2018"
+             },
+             {
+                "Gamme":"A1 (GB)",
+                "Modèle":"A1 SPORTBACK 2019 - A1 CITYCARVER 2019 - A1 ALLSTREET 2022",
+                "Phase":"",
+                "From":"27/09/2018",
+                "To":""
+             },
+             {
+                "Gamme":"A2 (8Z)",
+                "Modèle":"A2",
+                "Phase":"",
+                "From":"01/07/2000",
+                "To":"31/01/2006"
+             },
+             {
+                "Gamme":"A3 (8L)",
+                "Modèle":"A3 1996",
+                "Phase":"",
+                "From":"01/09/1996",
+                "To":"31/08/2000"
+             },
+             {
+                "Gamme":"A3 (8L)",
+                "Modèle":"A3 EVOLUTION 2000",
+                "Phase":"",
+                "From":"01/09/2000",
+                "To":"30/06/2003"
+             },
+             {
+                "Gamme":"A3 (8L)",
+                "Modèle":"S3 1999",
+                "Phase":"",
+                "From":"01/07/1999",
+                "To":"31/08/2000"
+             },
+             {
+                "Gamme":"A3 (8L)",
+                "Modèle":"S3 EVOLUTION 2000",
+                "Phase":"",
+                "From":"01/09/2000",
+                "To":"31/12/2003"
+             },
+             {
+                "Gamme":"A3 (8P)",
+                "Modèle":"A3 2003",
+                "Phase":"",
+                "From":"01/04/2003",
+                "To":"31/05/2005"
+             },
+             {
+                "Gamme":"A3 (8P)",
+                "Modèle":"A3 2005",
+                "Phase":"I",
+                "From":"15/05/2005",
+                "To":"24/04/2008"
+             },
+             {
+                "Gamme":"A3 (8P)",
+                "Modèle":"A3 2005",
+                "Phase":"II",
+                "From":"24/04/2008",
+                "To":"26/04/2010"
+             },
+             {
+                "Gamme":"A3 (8P)",
+                "Modèle":"A3 2005",
+                "Phase":"III",
+                "From":"26/04/2010",
+                "To":"12/06/2012"
+             },
+             {
+                "Gamme":"A3 (8P)",
+                "Modèle":"A3 CABRIOLET 2008",
+                "Phase":"I",
+                "From":"01/02/2008",
+                "To":"26/04/2010"
+             },
+             {
+                "Gamme":"A3 (8P)",
+                "Modèle":"A3 CABRIOLET 2008",
+                "Phase":"II",
+                "From":"26/04/2010",
+                "To":"31/03/2013"
+             },
+             {
+                "Gamme":"A3 (8P)",
+                "Modèle":"A3 SPORTBACK 2004",
+                "Phase":"I",
+                "From":"01/07/2004",
+                "To":"24/04/2008"
+             },
+             {
+                "Gamme":"A3 (8P)",
+                "Modèle":"A3 SPORTBACK 2004",
+                "Phase":"II",
+                "From":"24/04/2008",
+                "To":"26/04/2010"
+             },
+             {
+                "Gamme":"A3 (8P)",
+                "Modèle":"A3 SPORTBACK 2004",
+                "Phase":"III",
+                "From":"26/04/2010",
+                "To":"31/10/2012"
+             },
+             {
+                "Gamme":"A3 (8P)",
+                "Modèle":"RS3 SPORTBACK 2010",
+                "Phase":"",
+                "From":"06/12/2010",
+                "To":"31/12/2014"
+             },
+             {
+                "Gamme":"A3 (8P)",
+                "Modèle":"S3 2006",
+                "Phase":"I",
+                "From":"30/09/2006",
+                "To":"24/04/2008"
+             },
+             {
+                "Gamme":"A3 (8P)",
+                "Modèle":"S3 2006",
+                "Phase":"II",
+                "From":"24/04/2008",
+                "To":"31/12/2012"
+             },
+             {
+                "Gamme":"A3 (8P)",
+                "Modèle":"S3 SPORTBACK 2008",
+                "Phase":"",
+                "From":"24/04/2008",
+                "To":"31/12/2012"
+             },
+             {
+                "Gamme":"A3 (8V)",
+                "Modèle":"RS3 BERLINE 2017",
+                "Phase":"",
+                "From":"21/08/2017",
+                "To":"21/07/2021"
+             },
+             {
+                "Gamme":"A3 (8V)",
+                "Modèle":"RS3 SPORTBACK 2015",
+                "Phase":"I",
+                "From":"16/04/2015",
+                "To":"21/08/2017"
+             },
+             {
+                "Gamme":"A3 (8V)",
+                "Modèle":"RS3 SPORTBACK 2015",
+                "Phase":"II",
+                "From":"21/08/2017",
+                "To":"21/07/2021"
+             },
+             {
+                "Gamme":"A3 (8V)",
+                "Modèle":"S3 2013",
+                "Phase":"I",
+                "From":"25/04/2013",
+                "To":"06/10/2016"
+             },
+             {
+                "Gamme":"A3 (8V)",
+                "Modèle":"S3 2013",
+                "Phase":"II",
+                "From":"06/10/2016",
+                "To":"29/03/2018"
+             },
+             {
+                "Gamme":"A3 (8V)",
+                "Modèle":"S3 BERLINE 2013",
+                "Phase":"I",
+                "From":"06/12/2013",
+                "To":"06/10/2016"
+             },
+             {
+                "Gamme":"A3 (8V)",
+                "Modèle":"S3 BERLINE 2013",
+                "Phase":"II",
+                "From":"06/10/2016",
+                "To":"12/07/2020"
+             },
+             {
+                "Gamme":"A3 (8V)",
+                "Modèle":"S3 CABRIOLET 2014",
+                "Phase":"I",
+                "From":"12/06/2014",
+                "To":"06/10/2016"
+             },
+             {
+                "Gamme":"A3 (8V)",
+                "Modèle":"S3 CABRIOLET 2014",
+                "Phase":"II",
+                "From":"06/10/2016",
+                "To":"31/03/2020"
+             },
+             {
+                "Gamme":"A3 (8V)",
+                "Modèle":"S3 SPORTBACK 2013",
+                "Phase":"I",
+                "From":"25/04/2013",
+                "To":"06/10/2016"
+             },
+             {
+                "Gamme":"A3 (8V)",
+                "Modèle":"S3 SPORTBACK 2013",
+                "Phase":"II",
+                "From":"06/10/2016",
+                "To":"12/07/2020"
+             },
+             {
+                "Gamme":"A4 (8D)",
+                "Modèle":"A4 AVANT 1999",
+                "Phase":"",
+                "From":"04/01/1999",
+                "To":"30/09/2001"
+             },
+             {
+                "Gamme":"A4 (8D)",
+                "Modèle":"RS4 AVANT 2000",
+                "Phase":"",
+                "From":"01/08/2000",
+                "To":"01/01/2002"
+             },
+             {
+                "Gamme":"A4 (8D)",
+                "Modèle":"S4 1999",
+                "Phase":"",
+                "From":"01/08/1998",
+                "To":"01/09/2001"
+             },
+             {
+                "Gamme":"A4 (8D)",
+                "Modèle":"S4 AVANT 1999",
+                "Phase":"",
+                "From":"01/08/1998",
+                "To":"01/01/2002"
+             },
+             {
+                "Gamme":"A4 (8E2/8E5/8H)",
+                "Modèle":"A4 2001",
+                "Phase":"",
+                "From":"01/01/2001",
+                "To":"30/09/2004"
+             },
+             {
+                "Gamme":"A4 (8E2/8E5/8H)",
+                "Modèle":"A4 AVANT 2001",
+                "Phase":"",
+                "From":"01/09/2001",
+                "To":"30/09/2004"
+             },
+             {
+                "Gamme":"A4 (8E2/8E5/8H)",
+                "Modèle":"A4 CABRIOLET 2003",
+                "Phase":"",
+                "From":"01/05/2002",
+                "To":"31/12/2006"
+             },
+             {
+                "Gamme":"A4 (8E2/8E5/8H)",
+                "Modèle":"A4 CABRIOLET 2006",
+                "Phase":"",
+                "From":"01/01/2006",
+                "To":"31/05/2009"
+             },
+             {
+                "Gamme":"A4 (8E2/8E5/8H)",
+                "Modèle":"RS4 CABRIOLET 2006",
+                "Phase":"",
+                "From":"01/07/2006",
+                "To":"31/12/2009"
+             },
+             {
+                "Gamme":"A4 (8E2/8E5/8H)",
+                "Modèle":"S4 2001",
+                "Phase":"",
+                "From":"01/05/2003",
+                "To":"01/11/2004"
+             },
+             {
+                "Gamme":"A4 (8E2/8E5/8H)",
+                "Modèle":"S4 AVANT 2001",
+                "Phase":"",
+                "From":"01/05/2003",
+                "To":"01/11/2004"
+             },
+             {
+                "Gamme":"A4 (8E2/8E5/8H)",
+                "Modèle":"S4 CABRIOLET 2004",
+                "Phase":"",
+                "From":"01/07/2004",
+                "To":"31/12/2005"
+             },
+             {
+                "Gamme":"A4 (8E2/8E5/8H)",
+                "Modèle":"S4 CABRIOLET 2006",
+                "Phase":"",
+                "From":"01/01/2006",
+                "To":"31/12/2008"
+             },
+             {
+                "Gamme":"A4 (8EC/8ED)",
+                "Modèle":"A4 2004",
+                "Phase":"",
+                "From":"25/09/2004",
+                "To":"31/12/2007"
+             },
+             {
+                "Gamme":"A4 (8EC/8ED)",
+                "Modèle":"A4 AVANT 2004",
+                "Phase":"",
+                "From":"25/09/2004",
+                "To":"29/02/2008"
+             },
+             {
+                "Gamme":"A4 (8EC/8ED)",
+                "Modèle":"RS4 2006",
+                "Phase":"",
+                "From":"01/01/2006",
+                "To":"31/12/2009"
+             },
+             {
+                "Gamme":"A4 (8EC/8ED)",
+                "Modèle":"RS4 AVANT 2006",
+                "Phase":"",
+                "From":"01/07/2006",
+                "To":"31/12/2009"
+             },
+             {
+                "Gamme":"A4 (8EC/8ED)",
+                "Modèle":"S4 2004",
+                "Phase":"",
+                "From":"22/11/2004",
+                "To":"05/12/2007"
+             },
+             {
+                "Gamme":"A4 (8EC/8ED)",
+                "Modèle":"S4 AVANT 2004",
+                "Phase":"",
+                "From":"22/11/2004",
+                "To":"05/12/2007"
+             },
+             {
+                "Gamme":"A4 (8K)",
+                "Modèle":"A4 2008",
+                "Phase":"I",
+                "From":"14/09/2007",
+                "To":"27/10/2011"
+             },
+             {
+                "Gamme":"A4 (8K)",
+                "Modèle":"A4 2008",
+                "Phase":"II",
+                "From":"27/10/2011",
+                "To":"30/09/2015"
+             },
+             {
+                "Gamme":"A4 (8K)",
+                "Modèle":"A4 ALLROAD",
+                "Phase":"I",
+                "From":"05/03/2009",
+                "To":"27/10/2011"
+             },
+             {
+                "Gamme":"A4 (8K)",
+                "Modèle":"A4 ALLROAD",
+                "Phase":"II",
+                "From":"27/10/2011",
+                "To":"23/03/2016"
+             },
+             {
+                "Gamme":"A4 (8K)",
+                "Modèle":"A4 AVANT 2008",
+                "Phase":"I",
+                "From":"20/02/2008",
+                "To":"27/10/2011"
+             },
+             {
+                "Gamme":"A4 (8K)",
+                "Modèle":"A4 AVANT 2008",
+                "Phase":"II",
+                "From":"27/10/2011",
+                "To":"30/09/2015"
+             },
+             {
+                "Gamme":"A4 (8K)",
+                "Modèle":"RS4 AVANT 2012",
+                "Phase":"",
+                "From":"06/06/2012",
+                "To":"30/06/2015"
+             },
+             {
+                "Gamme":"A4 (8K)",
+                "Modèle":"S4 2008",
+                "Phase":"I",
+                "From":"24/11/2008",
+                "To":"08/12/2011"
+             },
+             {
+                "Gamme":"A4 (8K)",
+                "Modèle":"S4 2008",
+                "Phase":"II",
+                "From":"08/12/2011",
+                "To":"31/10/2015"
+             },
+             {
+                "Gamme":"A4 (8K)",
+                "Modèle":"S4 AVANT 2008",
+                "Phase":"I",
+                "From":"24/11/2008",
+                "To":"08/12/2011"
+             },
+             {
+                "Gamme":"A4 (8K)",
+                "Modèle":"S4 AVANT 2008",
+                "Phase":"II",
+                "From":"08/12/2011",
+                "To":"31/10/2015"
+             }
+          ]
+       }
+    ]
+ }
